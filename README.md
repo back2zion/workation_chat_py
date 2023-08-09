@@ -9,7 +9,8 @@ Table of Contents
 <a name="inst"></a>
 ## 1. Install
   다음을 통해, 사용되는 Libraries 설치
-``` pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 <a name="pre"></a>
